@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🐈‍⬛ Jesse "Jay" Sena
 
-<!--
-**barefootjay/barefootjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`I'm a husband, creator, and keyboard enthusiast!`**
 
-Here are some ideas to get you started:
+_Thanks for stopping by!_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📹 Check out my [YouTube](https://www.youtube.com/@barefootjay) channel!
+- 🤔 I love photography and creating things that're useful to me.
+- 💡 Ask me about my keyboards!
+- 🎮 I love roguelike games a little too much...
+
+## Let's chat:
+- 🦋 [BlueSky](https://bsky.app/profile/barefootjay.bsky.social)
+
+## What I use:
+- 🦀 [Rust](https://www.rust-lang.org/)
+- 🪶 [Flutter](https://flutter.dev/)
+- 🧑‍💻 [Visual Studio Code](https://code.visualstudio.com/)
+- 🦑 [GitKraken](https://www.gitkraken.com/)
+- 🖥️ [Ubuntu](https://ubuntu.com/download)
+
+## Credits:
+- Thanks to *Caro Asercion* at [game-icons](https://game-icons.net/) for the profile picture!
